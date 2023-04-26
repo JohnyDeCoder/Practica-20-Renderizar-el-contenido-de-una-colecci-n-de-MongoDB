@@ -1,0 +1,27 @@
+{
+  "name": "practica-20-renderizar-el-contenido-de-una-colecci-n-de-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnyDeCoder/Practica-20-Renderizar-el-contenido-de-una-colecci-n-de-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnyDeCoder/Practica-20-Renderizar-el-contenido-de-una-colecci-n-de-MongoDB/issues"
+  },
+  "homepage": "https://github.com/JohnyDeCoder/Practica-20-Renderizar-el-contenido-de-una-colecci-n-de-MongoDB#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.5",
+    "nodemon": "^2.0.22"
+  }
+}
